@@ -57,3 +57,49 @@
 .escola-imagem{
     width: 25%;
 }
+
+.estudante-div-fotos{
+    width: 80%;
+    border-radius: 5%;
+}
+
+.estudante-div-icone{
+    width: 30px;
+}
+.estudante-div{
+    text-align: center;
+}
+
+.estudante{
+    background: linear-gradient(#5b5656,#003049);
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+    font-family: var(--fonte-titulo);
+    color: var(--preto);
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.estudante-div{
+    text-align:center ;
+}
+ .estudante-div-nome{
+    margin: 8px 0;
+    font-family: var(--fonte-texto);
+    font-size: 1.3em;
+ }
+ .rodape{
+    background-color: var(--azul);
+    text-align: center;
+ }
+ .rodape-logo{
+    width: 5%;
+    border-radius: 100%;
+    margin: 1em;
+    padding: 12px 0;
+ }
